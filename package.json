@@ -4,11 +4,11 @@
     "private": false,
     "dependencies": {
         "mqtt-connection": "4.1.0",
-        "pomelo-scheduler": "https://github.com/silverera/pomelo-scheduler.git#v0.6.0",
+        "pomelo-scheduler": "https://github.com/shangjingame/pomelo-scheduler.git#v0.6.0",
         "pomelo-monitor": "0.3.7"
     },
     "peerDependencies": {
-        "pomelo-logger": "https://github.com/silverera/pomelo-logger.git#v0.2.0"
+        "pomelo-logger": "https://github.com/shangjingame/pomelo-logger.git#v0.2.0"
     },
     "devDependencies": {
         "should": ">=0.0.1",
